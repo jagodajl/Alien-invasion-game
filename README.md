@@ -1,0 +1,1 @@
+Alien Invasion is a simple arcade game that allows you to shoot down alien spaceships. Run alien_invasion.py and use the left/right arrow keys to navigate your space ship in the game. Your task is to shoot all the aliens before they reach your ship. Use the space bar to throw bullets. Have fun!
